@@ -12,9 +12,10 @@ title: Home
 - 工具与技巧
 
 ### 📂 分类
-- [Web](/web/)
+- [Web](/web/index.md)
 - [内网](/internal/)
 - [漏洞](/vuln/)
 - [工具](/tools/)
+- [文章](/_posts/)
 
 
