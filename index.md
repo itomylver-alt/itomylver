@@ -1,8 +1,20 @@
--------
-Title : Cyber Sercurity 学习
--------
+---
+layout: home
+title: Home
+---
 
-记录web 域 ，云安全学习
+🛡️ **欢迎来到我的渗透测试博客**
 
-HTB / 实战 / 原理分析
+这里记录：
+- Web 渗透
+- 内网渗透
+- 漏洞复现
+- 工具与技巧
+
+### 📂 分类
+- [Web](/web/)
+- [内网](/internal/)
+- [漏洞](/vuln/)
+- [工具](/tools/)
+
 
