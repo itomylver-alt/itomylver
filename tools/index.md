@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Tools 工具
 permalink: /tools/
 ---
