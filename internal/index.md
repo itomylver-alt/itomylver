@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Internal 内网渗透
 permalink: /internal/
 ---
