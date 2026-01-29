@@ -2,6 +2,7 @@
 title: "第一篇：Hello Pentest"
 date: 2026-01-01
 categories: [web]
+layout: default
 tags: [intro]
 ---
 
