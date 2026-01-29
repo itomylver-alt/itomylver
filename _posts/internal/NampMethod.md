@@ -1,3 +1,10 @@
+---
+title: "Nmap 内网扫描"
+date: 2026-01-29
+categories: [internal]
+tags: [Lateral-Movement]
+---
+
 当你已经处于内网 该如何搜集内网的主机
 
 如果是在Linux ip a / ifconfig
